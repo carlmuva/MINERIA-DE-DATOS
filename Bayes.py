@@ -34,6 +34,7 @@ lluviaNo=bayesNo(listaNo[1],sumano,frecuenciasTotales,listaSi[1])
 soleadoSi=bayesSi(listaSi[2],sumasi,frecuenciasTotales,listaNo[2])
 soleadoNo=bayesNo(listaNo[2],sumano,frecuenciasTotales,listaSi[2])
 
+
 #Impresion de variables que contienen los resultados de los metodos.
 print("-------------------------\nSumas")
 print("Elementos en no: ",sumano)
